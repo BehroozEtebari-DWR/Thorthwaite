@@ -1,2 +1,3 @@
 # Thorthwaite
-VBA-Macros to evaluate monthly AET for following methods: Thorthwaite, Blaney Cridle, and Penman-FAO
+VBA-Macros to evaluate monthly Actual Evapotraspiration (AET) for following empirical approaches: Thorthwaite, Blaney Cridle, and Penman-FAO
+VBA-Macro's passcode = 0101502382006
